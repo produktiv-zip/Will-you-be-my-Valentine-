@@ -3,12 +3,15 @@ const messages = [
     "Wirklich sicher??",
     "Ganz, ganz sicher?",
     "Manno, bitte...",
-    "Denk einfach mal drüber nach!",
-    "Wenn du nein sagst bin ich sehr traurig :(...",
-    "Ich werde sehr traurig sein...",
-    "Okay, unfassbar stark traurig...",
-    "Ok in Ordnung, ich hör auf zu fragen...",
-    "Spas, bitte asg einfach ja! ❤️"
+    "Komm gönn!",
+    "Wenn ich du wäre, würde ich ja sagen...",
+    "Kennst du eigentlich die Schwester von Phineas und Ferb?",
+    "Candice...",
+    "Schere, ich hör schon auf...",
+    "Spaß, sag einfach ja! Bitte❤️"
+    "Grrr!"
+    "Ich bin dein größter Fan..."
+    "P*ss dich du H*rensohn!"
 ];
 
 let messageIndex = 0;
