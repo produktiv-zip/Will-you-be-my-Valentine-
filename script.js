@@ -25,6 +25,18 @@ function handleNoClick() {
     yesButton.style.fontSize = `${currentSize * 1.5}px`;
 }
 
-function handleYesClick() {
-    window.location.href = "yes_page.html";
+function handleYesCRClick() {
+    window.location.href = "yes_page_clash-royale.html";
+}
+
+function handleYesCClick() {
+    window.location.href = "yes_page_cute.html";
+}
+
+function handleCuteClick() {
+    window.location.href = "index_cute.html";
+}
+
+function handleClash_RoylaClick() {
+    window.location.href = "index_clash-royale.html";
 }
