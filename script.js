@@ -8,9 +8,9 @@ const messages = [
     "Kennst du eigentlich die Schwester von Phineas und Ferb?",
     "Candice...",
     "Schere, ich hör schon auf...",
-    "Spaß, sag einfach ja! Bitte❤️"
-    "Grrr!"
-    "Ich bin dein größter Fan..."
+    "Spaß, sag einfach ja! Bitte❤️",
+    "Grrr!",
+    "Ich bin dein größter Fan...",
     "P*ss dich du H*rensohn!"
 ];
 
